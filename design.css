@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	background: #5985a6;
+}
+div.styleMe{
+	box-shadow: 0px 0px 50px black;
+}
+#titel{
+	background-color: #112e31;
+}
+#content{
+	background: #5985a6;
+}
+#biggest{
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	box-shadow: 0px 0px 15px black;
+}
